@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.59ac3aad.css",
+    "main.js": "/static/js/main.ee621c17.js",
+    "static/js/496.b614af85.chunk.js": "/static/js/496.b614af85.chunk.js",
+    "static/media/logo-refoenergy.png": "/static/media/logo-refoenergy.6f61b0639362e08316e6.png",
+    "index.html": "/index.html",
+    "main.59ac3aad.css.map": "/static/css/main.59ac3aad.css.map",
+    "main.ee621c17.js.map": "/static/js/main.ee621c17.js.map",
+    "496.b614af85.chunk.js.map": "/static/js/496.b614af85.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59ac3aad.css",
+    "static/js/main.ee621c17.js"
+  ]
+}
